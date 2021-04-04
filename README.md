@@ -1,1 +1,3 @@
 # Case-study
+As we are interested in the study of physical phenomena, and more particularly in phenomena related to the phytoplankton environments, we therefore , aim in this paper to find the locations in the senegal-mauritanian ocean (coast) that are more favourable to produce these kind of organisms. Thus the purpose of this paper consists to identify the concentration of the phytoplankton organisms in the senegal-mauritanian upwelling areas.
+Our method consists of applying a self organizing map in order to, first, summarize the information held by the data, then proceed with hierachical ascendant clustering HAC. 
